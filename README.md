@@ -15,12 +15,12 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-### 🚀 Full-Stack Developer | ML & NLP Enthusiast | R&D Intern @ Blue Star Ltd.
-#### 🏆 3 Competition Wins | 📜 5 NPTEL/Industry Certifications | 🔬 Active Researcher
+### 🚀 Full-Stack Developer | AI/ML & NLP Enthusiast | R&D Intern @ Blue Star Ltd.
+#### 🏆 3 Competition Wins | 📊 CGPA: 8.75 | 🔬 Active Researcher
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saksham--begad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-begad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saksham--begad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-begad-3a91a934b/)
+[![Gmail](https://img.shields.io/badge/Gmail-skmbegad@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skmbegad@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-saksham301205-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saksham301205)
-[![Profile Views](https://komarev.com/ghpvc/?username=saksham301205&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/saksham301205)
 
 </div>
 
@@ -34,8 +34,9 @@
   "college"     : "SRM Institute of Science & Technology, Chennai",
   "degree"      : "B.Tech Computer Science",
   "experience"  : "R&D Intern @ Blue Star Limited (May 2026 - Present)",
-  "focus"       : ["Machine Learning", "NLP", "Backend Dev", "DSA"],
-  "stack"       : ["Python", "Flask", "Django", "C++", "HTML/CSS", "MySQL", "SQLite3"],
+  "cgpa"        : 8.75,
+  "focus"       : ["AI/ML", "NLP", "Backend Dev", "DSA"],
+  "stack"       : ["Python", "Flask", "Django", "C++", "Java", "HTML/CSS", "MySQL", "MongoDB"],
   "currently"   : "Exploring smart systems, automation & industrial software",
   "fun_fact"    : "I built a quantum eavesdropping detector using ML 🔐"
 }
@@ -62,15 +63,16 @@
 <td width="50%">
 
 ### 🧬 [MediLingo](https://github.com/saksham301205/MediLingo)
-Bridges the gap between **rural healthcare and doctors** using voice transcription and accessible UI.
+Bridges the gap between **rural healthcare and doctors** using NLP, voice transcription and accessible UI.
 
-- Python + Flask backend
+- Python + Flask backend with NLP processing
 - Voice-to-text with SQLite3 storage
 - Deployed to production
 - 2 forks from the community
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite3-003B57?style=flat-square&logo=sqlite)
 
@@ -81,12 +83,13 @@ Bridges the gap between **rural healthcare and doctors** using voice transcripti
 **ML-based anomaly detection** on quantum communication data using BB84 protocol simulation.
 
 - Python + Scikit-learn + Streamlit dashboard
+- Flask REST backend for data processing
 - Detects eavesdropping attempts in real-time
-- Simulates quantum protocols with ML pipeline
 - Interactive anomaly visualization
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
@@ -115,10 +118,11 @@ Flask web app helping **communities manage shared freezer storage** and reduce f
 - Track food items & expiry dates
 - User management & food request handling
 - Clean dashboard with item history
-- Python + Flask + HTML/CSS
+- Python + Flask + MySQL + HTML/CSS
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </td>
@@ -161,31 +165,31 @@ Candidate **registration & management** web app using Flask and SQLite.
 
 | Category | Technologies |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **Backend & APIs** | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) ![Bottle](https://img.shields.io/badge/-Bottle-darkgreen?style=flat-square) |
 | **ML / NLP** | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite3-003B57?style=flat-square&logo=sqlite) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite3-003B57?style=flat-square&logo=sqlite) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) |
 
 ---
 
 ## 🏆 Achievements
 
+- ✅ **Round 1 Qualifier, Team Leader** — Smart India Hackathon (2025)
 - 🥇 **1st Prize & Team Leader** — Codeathon, SRM University (2026)
 - 🥈 **Runner-up, Backend Dev** — Quantathon 3.0, SRM University (2026)
-- ✅ **Round 1 Qualifier, Team Leader** — Smart India Hackathon (2025)
 - 🏅 **Goldman Sachs Operations Job Simulation** — Forage (May 2026)
 
 ---
 
 ## 📜 Certifications
 
-- 🎓 **Database Management Systems** — NPTEL (2026)
-- 🎓 **Advanced Programming Practice** — NPTEL (2026)
 - 🎓 **Object Oriented Programming** — NPTEL (2025)
 - 🎓 **Programming for Problem Solving** — NPTEL (2025)
 - 🛠️ **AI Tools Workshop** — Be10x (2025)
+- 🎓 **Database Management Systems** — NPTEL (2026)
+- 🎓 **Advanced Programming Practice** — NPTEL (2026)
 
 ---
 
