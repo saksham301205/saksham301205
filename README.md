@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6B9FFF&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,11 +11,13 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science** at **SRM Institute of Science & Technology, Chennai**
+- 🔬 Currently working as **R&D Intern @ Blue Star Limited** — exploring smart systems & automation
 - 🌐 Passionate about **Web Development** and solving real-world problems
-- 🌱 Currently learning **Django, MongoDB**, and exploring **DevOps**
+- 🌱 Currently learning **React, Node.js, MongoDB**, and exploring **DevOps**
 - 💡 Passionate about **AI/ML, NLP, Backend Development & DSA**
-- 🤝 Open to **collaborations, internships & open-source contributions**
 - 📊 **CGPA: 8.75**
+- 🏆 **3 Competition Wins** including Codeathon & Smart India Hackathon
+- 🤝 Open to **collaborations, internships & open-source contributions**
 - 📬 Reach me at **skmbegad@gmail.com**
 
 ---
