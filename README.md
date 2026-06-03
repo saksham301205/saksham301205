@@ -1,180 +1,87 @@
-<!-- Header -->
-<div align="center">
+<h1 align="center">Hi 👋, I'm Saksham Begad</h1>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   > whoami                                               ║
-║                                                          ║
-║     SAKSHAM BEGAD                                        ║
-║     CS Student @ SRM University · Chennai                ║
-║     Python · Flask · Django · ML · NLP                   ║
-║                                                          ║
-║   > status: building things that matter                  ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-### 🚀 Full-Stack Developer | AI/ML & NLP Enthusiast | R&D Intern @ Blue Star Ltd.
-#### 🏆 3 Competition Wins | 📊 CGPA: 8.75 | 🔬 Active Researcher
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saksham--begad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-begad-3a91a934b/)
-[![Gmail](https://img.shields.io/badge/Gmail-skmbegad@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skmbegad@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-saksham301205-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saksham301205)
-
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=AI%2FML+%26+NLP+Enthusiast;Full-Stack+Developer;R%26D+Intern+%40+Blue+Star+Ltd.;Problem+Solver+%26+Builder" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🧠 About Me
+### 🧑‍💻 About Me
 
-```json
-{
-  "name"        : "Saksham Begad",
-  "college"     : "SRM Institute of Science & Technology, Chennai",
-  "degree"      : "B.Tech Computer Science",
-  "experience"  : "R&D Intern @ Blue Star Limited (May 2026 - Present)",
-  "cgpa"        : 8.75,
-  "focus"       : ["AI/ML", "NLP", "Backend Dev", "DSA"],
-  "stack"       : ["Python", "Flask", "Django", "C++", "Java", "HTML/CSS", "MySQL", "MongoDB"],
-  "currently"   : "Exploring smart systems, automation & industrial software",
-  "fun_fact"    : "I built a quantum eavesdropping detector using ML 🔐"
-}
-```
+- 🎓 Pursuing **B.Tech in Computer Science** at **SRM Institute of Science & Technology, Chennai**
+- 🔬 Currently working as **R&D Intern @ Blue Star Limited** — exploring smart systems & automation
+- 🌱 Passionate about **AI/ML, NLP, Backend Development & DSA**
+- 📊 **CGPA: 8.75**
+- 🏆 **3 Competition Wins** including Codeathon & Smart India Hackathon
+- 🤝 Open to **collaborations, internships & open-source contributions**
+- 📬 Reach me at **skmbegad@gmail.com**
 
 ---
 
-## 💼 Experience
+### 🔗 Connect With Me
 
-### 🔬 Research & Development Intern — Blue Star Limited *(May 2026 – Present)*
-> *Thane, Maharashtra | On-site*
-
-- Working with real-world engineering systems and software workflows
-- Learning protocol-based communication, data parsing & JSON-based system integration
-- Exploring smart systems, automation technologies & practical industrial applications
-- Collaborating on technical problem-solving and development tasks
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧬 [MediLingo](https://github.com/saksham301205/MediLingo)
-Bridges the gap between **rural healthcare and doctors** using NLP, voice transcription and accessible UI.
-
-- Python + Flask backend with NLP processing
-- Voice-to-text with SQLite3 storage
-- Deployed to production
-- 2 forks from the community
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square)
-![HTML](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite3-003B57?style=flat-square&logo=sqlite)
-
-</td>
-<td width="50%">
-
-### 🔐 [Quantum Eavesdrop Detector](https://github.com/saksham301205/Quantum-Eavesdrop-Detector)
-**ML-based anomaly detection** on quantum communication data using BB84 protocol simulation.
-
-- Python + Scikit-learn + Streamlit dashboard
-- Flask REST backend for data processing
-- Detects eavesdropping attempts in real-time
-- Interactive anomaly visualization
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎵 [MoodTunes](https://github.com/saksham301205/Mood-Based-Music-Website)
-Full-stack **mood-based music recommender** — pick a mood, get personalised Hindi & English songs.
-
-- React.js + Node.js + Express + MySQL
-- JWT authentication & favourites system
-- Auto album art & mood-themed backgrounds
-- 4 pages: Home, Discover, Favourites, Auth
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🧊 [Community Freezer Project](https://github.com/saksham301205/Community-Freezer-Project)
-Flask web app helping **communities manage shared freezer storage** and reduce food waste.
-
-- Track food items & expiry dates
-- User management & food request handling
-- Clean dashboard with item history
-- Python + Flask + MySQL + HTML/CSS
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌤️ [Realtime Weather Dashboard](https://github.com/saksham301205/Realtime-weather-dashboard)
-Real-time weather app with **visually appealing icons**, temperature conversion & full atmospheric data.
-
-- Live weather updates via API
-- Humidity, wind speed, pressure readings
-- Pure HTML/CSS/JS — no frameworks
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td width="50%">
-
-### 💊 [TCS Flask App](https://github.com/saksham301205/tcs-flask-app)
-Candidate **registration & management** web app using Flask and SQLite.
-
-- Register & store candidate details
-- SQLite3 database integration
-- Clean minimal UI
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![SQLite](https://img.shields.io/badge/-SQLite3-003B57?style=flat-square&logo=sqlite)
-
-</td>
-</tr>
-</table>
+<p align="left">
+  <a href="https://www.linkedin.com/in/saksham-begad-3a91a934b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:skmbegad@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://github.com/saksham301205" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 💻 Tech Stack
 
-| Category | Technologies |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend & APIs** | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) ![Bottle](https://img.shields.io/badge/-Bottle-darkgreen?style=flat-square) |
-| **ML / NLP** | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite3-003B57?style=flat-square&logo=sqlite) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) |
+#### 🧠 Languages:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css" alt="Languages" />
+</p>
+
+#### ⚙️ Backend & Frameworks:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,django" alt="Backend" />
+  <img src="https://img.shields.io/badge/Bottle-darkgreen?style=flat-square&logo=python&logoColor=white" alt="Bottle" height="48"/>
+</p>
+
+#### 🤖 AI / ML / NLP:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="ML Tools" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Sklearn" height="48"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="48"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" height="48"/>
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logo=python&logoColor=white" alt="NLP" height="48"/>
+</p>
+
+#### 🎨 Frontend:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend" />
+</p>
+
+#### 🗃️ Databases:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Databases" />
+</p>
+
+#### 🛠️ Tools & Platforms:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Tools" />
+</p>
 
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements
 
 - ✅ **Round 1 Qualifier, Team Leader** — Smart India Hackathon (2025)
 - 🥇 **1st Prize & Team Leader** — Codeathon, SRM University (2026)
@@ -183,7 +90,7 @@ Candidate **registration & management** web app using Flask and SQLite.
 
 ---
 
-## 📜 Certifications
+### 📜 Certifications
 
 - 🎓 **Object Oriented Programming** — NPTEL (2025)
 - 🎓 **Programming for Problem Solving** — NPTEL (2025)
@@ -193,32 +100,44 @@ Candidate **registration & management** web app using Flask and SQLite.
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<div align="center">
-
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham301205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham301205&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=saksham301205&theme=tokyonight&hide_border=true)
-
-</div>
+| Project | Description | Tech |
+|---|---|---|
+| 🧬 [MediLingo](https://github.com/saksham301205/MediLingo) | Bridges rural healthcare & doctors via NLP & voice transcription | Python, Flask, NLP, SQLite |
+| 🔐 [Quantum Eavesdrop Detector](https://github.com/saksham301205/Quantum-Eavesdrop-Detector) | ML-based anomaly detection on BB84 quantum key distribution | Python, Flask, Scikit-learn, Streamlit |
+| 🎵 [MoodTunes](https://github.com/saksham301205/Mood-Based-Music-Website) | Full-stack mood-based music recommender with JWT auth | React, Node.js, Express, MySQL |
+| 🧊 [Community Freezer](https://github.com/saksham301205/Community-Freezer-Project) | Shared freezer management to reduce community food waste | Python, Flask, MySQL, HTML/CSS |
+| 🌤️ [Weather Dashboard](https://github.com/saksham301205/Realtime-weather-dashboard) | Real-time weather with icons, temp conversion & atmospheric data | HTML, CSS, JavaScript |
 
 ---
 
-## 💡 Focus Areas
+### 📊 GitHub Stats
 
-```
-Backend Systems  •  Clean APIs  •  Machine Learning  •  NLP  •  DSA
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saksham301205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham301205&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saksham301205&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-<div align="center">
+### 🤝 Let's Connect!
 
-📬 **Let's connect!** Open to collaborations, projects & opportunities.
-
-*"The best code is the one that solves a real problem."*
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/saksham-begad-3a91a934b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:skmbegad@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/saksham301205" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
