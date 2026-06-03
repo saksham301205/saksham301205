@@ -11,13 +11,11 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science** at **SRM Institute of Science & Technology, Chennai**
-- 🔬 Currently working as **R&D Intern @ Blue Star Limited** — exploring smart systems & automation
 - 🌐 Passionate about **Web Development** and solving real-world problems
-- 🌱 Currently learning **React, Node.js, MongoDB**, and exploring **DevOps**
+- 🌱 Currently learning **Django, MongoDB**, and exploring **DevOps**
 - 💡 Passionate about **AI/ML, NLP, Backend Development & DSA**
-- 📊 **CGPA: 8.75**
-- 🏆 **3 Competition Wins** including Codeathon & Smart India Hackathon
 - 🤝 Open to **collaborations, internships & open-source contributions**
+- 📊 **CGPA: 8.75**
 - 📬 Reach me at **skmbegad@gmail.com**
 
 ---
