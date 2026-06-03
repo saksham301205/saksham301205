@@ -25,10 +25,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/saksham-begad-3a91a934b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:skmbegad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://stackoverflow.com/users/" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/></a>
-  <a href="https://leetcode.com/saksham301205/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/saksham301205" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
-  <a href="https://www.codechef.com/users/saksham301205" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://github.com/saksham301205" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/Saksham_begad/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 ---
@@ -69,23 +67,19 @@
 
 ### 📊 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/saksham301205?theme=dark&font=Fira+Code&ext=heatmap&border=0)](https://leetcode.com/saksham301205/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Saksham_begad?theme=dark&font=Fira+Code&ext=heatmap&border=0)](https://leetcode.com/Saksham_begad/)
 
 ---
 
-### 🤝 Let's Connect!
+### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saksham-begad-3a91a934b/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:skmbegad@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/saksham301205" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+| Project | Description | Tech |
+|---|---|---|
+| 🔐 [Quantum Eavesdrop Detector](https://github.com/saksham301205/Quantum-Eavesdrop-Detector) | ML-based anomaly detection on BB84 quantum key distribution | Python, Flask, Scikit-learn, Streamlit |
+| 📊 [VRF ML Monitoring](https://github.com/saksham301205/VRF-ML-Monitoring) | Real-time VRF system monitoring dashboard with live data | Python, Flask, MySQL, ML, React, Electron |
+| 🧬 [MediLingo](https://github.com/saksham301205/MediLingo) | Bridges rural healthcare & doctors via NLP & voice transcription | Python, Flask, NLP, SQLite |
+| 🎵 [MoodTunes](https://github.com/saksham301205/Mood-Based-Music-Website) | Full-stack mood-based music recommender with JWT auth | React, Node.js, Express, MySQL |
+| 🧊 [Community Freezer](https://github.com/saksham301205/Community-Freezer-Project) | Shared freezer management to reduce community food waste | Python, Flask, MySQL, HTML/CSS |
 
 ---
 
@@ -108,12 +102,16 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🤝 Let's Connect!
 
-| Project | Description | Tech |
-|---|---|---|
-| 🔐 [Quantum Eavesdrop Detector](https://github.com/saksham301205/Quantum-Eavesdrop-Detector) | ML-based anomaly detection on BB84 quantum key distribution | Python, Flask, Scikit-learn, Streamlit |
-| 📊 [VRF ML Monitoring](https://github.com/saksham301205/VRF-ML-Monitoring) | Real-time VRF system monitoring dashboard with live data | Python, Flask, HTML/CSS |
-| 🧬 [MediLingo](https://github.com/saksham301205/MediLingo) | Bridges rural healthcare & doctors via NLP & voice transcription | Python, Flask, NLP, SQLite |
-| 🎵 [MoodTunes](https://github.com/saksham301205/Mood-Based-Music-Website) | Full-stack mood-based music recommender with JWT auth | React, Node.js, Express, MySQL |
-| 🧊 [Community Freezer](https://github.com/saksham301205/Community-Freezer-Project) | Shared freezer management to reduce community food waste | Python, Flask, MySQL, HTML/CSS |
+<p align="center">
+  <a href="https://www.linkedin.com/in/saksham-begad-3a91a934b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:skmbegad@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/saksham301205" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
