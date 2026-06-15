@@ -15,7 +15,7 @@
 - 🌱 Currently learning **Django, MongoDB**, and exploring **DevOps**
 - 💡 Passionate about **AI/ML, NLP, Backend Development & DSA**
 - 🤝 Open to **collaborations, internships & open-source contributions**
-- 📊 **CGPA: 8.75**
+- 📊 **CGPA: 8.99**
 - 📬 Reach me at **skmbegad@gmail.com**
 
 ---
